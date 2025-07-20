@@ -1,0 +1,287 @@
+[
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Who lives second left of person living in Ranchi?",
+    "choices": [
+      "A) Saurav",
+      "B) Sohan",
+      "C) Tinku",
+      "D) Suraj"
+    ],
+    "answer": "B",
+    "explanation": "1) Sunny sits third to the left of the person who lives in Chennai.\n2) Two people are sitting between Sunny and Sohan who live in Pune.\n3) Tinku and Rishab are immediate neighbors and neither of them lives in Chennai.\n4) Less than three people sit between Sohan and Rishab.\n5) Saurav who lives in Bangalore sits second to the left of the person living in Mumbai\n6) The person living in Ranchi sits exactly between persons living in Bangalore and Delhi.\n7) The person living in Delhi sits right side of the Person living in Kolkata.\n8) More than one people sit between Tinku and a person living in Kolkata.\nTherefore, case II gets canceled.\n9) Suraj sits second right of the person living in Patna.\n10) Sunny and Suresh are not immediate neighbors.\nHence,\nSohan sits second left of the person from Ranchi."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Which of the following statement is false about Rishab?",
+    "choices": [
+      "A) Rishab Sits second right of person living in Pune",
+      "B) Rishab Lives in Rachi",
+      "C) Rishab sits third left of Abhishek.",
+      "D) Abhishek"
+    ],
+    "answer": "D",
+    "explanation": "1) Sunny sits third to the left of the person who lives in Chennai.\n2) Two people are sitting between Sunny and Sohan who live in Pune.\n3) Tinku and Rishab are immediate neighbors and neither of them lives in Chennai.\n4) Less than three people sit between Sohan and Rishab.\n5) Saurav who lives in Bangalore sits second to the left of the person living in Mumbai\n6) The person living in Ranchi sits exactly between persons living in Bangalore and Delhi.\n7) The person living in Delhi sits right side of the Person living in Kolkata.\n8) More than one person sits between Tinku and a person living in Kolkata.\nTherefore, case II gets canceled.\n9) Suraj sits second to right of the person living in Patna.\n10) Sunny and Suresh are not immediate neighbors.\nHence,\nRishab sits 3rd left of Abhishek this statement is false."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Who live in Kolkata?",
+    "choices": [
+      "A) Rishab",
+      "B) Tinku",
+      "C) Kolkata",
+      "D) Chennai"
+    ],
+    "answer": "A",
+    "explanation": "1) Sunny sits third to the left of the person who lives in Chennai.\n2) Two people are sitting between Sunny and Sohan who live in Pune.\n3) Tinku and Rishab are immediate neighbors and neither of them lives in Chennai.\n4) Less than three people sit between Sohan and Rishab.\n5) Saurav who lives in Bangalore sits second to the left of the person living in Mumbai\n6) The person living in Ranchi sits exactly between persons living in Bangalore and Delhi.\n7) The person living in Delhi sits right side of the Person living in Kolkata.\n8) More than one person sits between Tinku and a person living in Kolkata.\nTherefore, case II gets canceled.\n9) Suraj sits second to right of the person living in Patna.\n10) Sunny and Suresh are not immediate neighbors.\nHence,\nAbhishek lives in Kolkata."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In which city does Sunny live?",
+    "choices": [
+      "A) Patna",
+      "B) 1",
+      "C) 2",
+      "D) 0"
+    ],
+    "answer": "D",
+    "explanation": "1) Sunny sits third to the left of the person who lives in Chennai.\n2) Two people are sitting between Sunny and Sohan who live in Pune.\n3) Tinku and Rishab are immediate neighbors and neither of them lives in Chennai.\n4) Less than three people sit between Sohan and Rishab.\n5) Saurav who lives in Bangalore sits second to the left of the person living in Mumbai\n6) The person living in Ranchi sits exactly between persons living in Bangalore and Delhi.\n7) The person living in Delhi sits right side of the Person living in Kolkata.\n8) More than one people sit between Tinku and a person living in Kolkata.\nTherefore, case II gets canceled.\n9) Suraj sits second to right of the person living in Patna.\n10) Sunny and Suresh are not immediate neighbors.\nHence,\nSunny lives in Patna."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "A, B, C, D, E, F and G are sitting around a circular table facing the centre. C sits second to the left of F. G is an immediate neighbour of both A and E. A is an immediate neighbour of F. B sits to the immediate right of E.How many people sit between B and F when counted from the right of F?",
+    "choices": [
+      "A) B",
+      "B) H",
+      "C) D",
+      "D) C"
+    ],
+    "answer": "D",
+    "explanation": "Given, A, B, C, D, E, F and G are sitting around a circular table facing the centre.\nB sits to the immediate right of E.\nG is an immediate neighbour of both A and E.\nA is an immediate neighbour of F.\nC sits second to the left of F.\nAnd D sits at the remaining place.\nSo, there are 3 people sit between B and F when counted from the right of F.\nHence, the correct answer is\n\"Option 4.\""
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight friends, A, B, C, D, E, F, G and H, are sitting in a straight line, all facing the north. F is sitting between D and G. B is sitting between H and A. E is third to the left of G. G is sitting at one of the corners. H is third to the left of C. Who is sitting between A and E?",
+    "choices": [
+      "A) Rashi",
+      "B) Shweta",
+      "C) Vibha",
+      "D) Q sits to the immediate right of U."
+    ],
+    "answer": "D",
+    "explanation": "Total eight friends facing north:-\nA, B, C, D, E, F, G and H\n1) E is third to the left of G. G is sitting at one of the corners.\n2) F is sitting between D and G.\n3) H is third to the left of C.\n4) B is sitting between H and A.\nHence,\n'C'\nis sitting\nbetween A and E\n.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Five friends, Bhumika, Rashi, Shweta, Vibha and Arunima, are sitting in a row facing east. Bhumika is sitting between Vibha and Shweta. Rashi is second to the left of Shweta. Who is sitting at the south end?",
+    "choices": [
+      "A) Three persons sit between Q and R.",
+      "B) One person sits between S and U.",
+      "C) One",
+      "D) Two"
+    ],
+    "answer": "D",
+    "explanation": "The logic followed here is :-\nFive friends, Bhumika, Rashi, Shweta, Vibha and Arunima, are sitting in a row facing east.\nBhumika is sitting between Vibha and Shweta and Rashi is second to the left of Shweta is as shown below :\n∴ Here, 'Vibha' is sitting in south end.\nHence, the correct answer is\n\"Vibha\".\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight persons P, Q, R, S, T, U, V and W are sitting around a circular table facing the center (not necessarily in the same order). Two persons sit between Q and W. V sits immediate left of W. Three persons sit between S and T. R sits immediate left of T. U is not the neighbor of P. One person sits between P and Q.Which of the following statement is correct?",
+    "choices": [
+      "A) Four",
+      "B) R",
+      "C) Q",
+      "D) P"
+    ],
+    "answer": "D",
+    "explanation": "Eight persons: P, Q, R, S, T, U, V and W.\n1) Three persons sit between S and T.\n2) R sits immediate left of T.\n3) One person sits between P and Q.\n4) Two persons sit between Q and W.\n5) V sits immediate left of W.\n6) 5) U is not the neighbor of P.\nChecking o[tions one by one;\n1) Q sits to the immediate right of U → False\n2) One person sits between P and R → False\n3) Three persons sit between Q and R → False\n4) One person sits between S and U → True\nHence,\noption (4)\nis the correct answer.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Six people - S, T, U, V, W and Z are sitting around a circular table facing towards centre. Only one person is sitting between T and W. Z is an immediate neighbour of W. S is sitting third to left of Z. U is an immediate neighbour of W. V is not sitting immediate left of T. How many people are sitting between U and Z, when counted from the right of Z?",
+    "choices": [
+      "A) None",
+      "B) Two",
+      "C) Three",
+      "D) One"
+    ],
+    "answer": "C",
+    "explanation": "Six People:\nS, T, U, V, W and Z.\n1) Only one person is sitting between T and W.\n2) Z is an immediate neighbour of W.\n3) S is sitting third to left of Z.\n4) U is an immediate neighbour of W.\n5) V is not sitting immediate left of T.\nThis condition doesn’t satisfy in case 1. Thus, case 1 gets eliminated.\nHence, three people are sitting between U and Z, when counted from the right of Z.\nMistake Points\nHere, the question is, counted from the right of Z.\nSo, from the right of Z, there are 3 people between them. and from the left, there is 1 person between U and Z.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Seven friends O, P, Q, R, S, T and U are watching a movie sitting in a row. S is sitting at one extreme end. Q is sitting second to the right of S. P is sitting between O and Q. U is not sitting at any extreme end. O is not at any extreme end. R is sitting immediate left of T. Who is sitting in the middle?",
+    "choices": [
+      "A) K",
+      "B) N",
+      "C) Q",
+      "D) X"
+    ],
+    "answer": "C",
+    "explanation": "Solution:\n1. Seven friends O, P, Q, R, S, T and U are watching a movie sitting in a row.\n2. S is sitting at one extreme end.\n3. Q is sitting second to the right of S.\n4. P is sitting between O and Q. O is not at any extreme end.\n5. U is not sitting at any extreme end.\n6. R is sitting immediate left of T.\nSo, the final arrangement will be as shown below:\nNorth\nS\nU\nQ\nP\nO\nR\nU\nT\nSouth\nU\nT\nR\nO\nP\nQ\nU\nS\nHence, ‘P’ is sitting in the middle.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Eight people, A, B, C, D, E, F, G and H are sitting in a straight line, facing north. Only three people sit to the right of A. Only one person sits between A and B. Only four people sit between B and D. F sits to the immediate right of D. C is neither an immediate neighbour of B nor D. E sits second to the right of G. How many people sit between H and A?",
+    "choices": [
+      "A) T",
+      "B) V",
+      "C) Q",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "The pattern followed here is:\nGiven:\nEight people, A, B, C, D, E, F, G and H are sitting in a straight line, facing north.\n1) Only three people sit to the right of A.\n2) Only one person sits between A and B\n3) Only four people sit between B and D.\nF sits to the immediate right of D.\n5) C is neither an immediate neighbour of B nor D.\n6) E sits second to the right of G.\n7) H sits in the vacant place.\nClearly, three person are sit between H and A.\nHence, the correct answer is\n\"Three\".\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Seven friends K, L, M, N, O, P and Q are sitting in a straight line. Only Q is between P and L. K is second from the right end. Two friends are sitting between M and O. M is at one of the ends. P is third from the left end and is to the immediate left of O. K is not sitting adjacent to O. Who is sitting at the third place from the right end?",
+    "choices": [
+      "A) R",
+      "B) C",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "C",
+    "explanation": "Seven friends\nK, L, M, N, O, P and Q\nare sitting in a straight line.\n1. K is second from the right end.\n2. P is third from the left end and is to the immediate left of O.\n3. Only Q is between P and L.\n4. Two friends are sitting between M and O.\n5. M is at one of the ends.\n6. K is not sitting adjacent to O.\nOnly one person N is left and N will occupy the vacant position.\nThe final arrangement will be as shown below:\nClearly, N is sitting at the third place from the right end.\nhence, '\nN\n' is the correct answer.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Six friends S, T, U, V, W and X are sitting on a straight bench facing towards the North. W and T are sitting at the fourth position from the left end and the right end, respectively. U and X are not the immediate neighbours of T and W. S is sitting at the fifth position from the right end. Who is sitting at the second position from the right end?",
+    "choices": [],
+    "answer": "D",
+    "explanation": "Six Persons:\nS, T, U, V, W and X\nFacing: North\n1) W and T are sitting at the fourth position from the left end and the right end, respectively.\n2) U and X are not the immediate neighbours of T and W.\n3) S is sitting at the fifth position from the right end.\nSo, final sitting arrangement:\nHence, “V”\nis sitting at the second position from the right end\n.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Five friends, P, Q, R, S and T are sitting in a row facing south. Q is sitting in the centre position. P is sitting at the west end. T and R are sitting on one side of Q. Two persons are sitting between P and R. Who is sitting between Q and P?",
+    "choices": [],
+    "answer": "C",
+    "explanation": "Total five friends facing south:-\nP, Q, R, S and T\n1) Q is sitting in the centre position.\n2) P is sitting at the west end.\n3) Two persons are sitting between P and R.\n4) T and R are sitting on one side of Q.\nThe final sitting arrangement is\nHence,\n'S'\nis sitting between\nQ and P\n.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "Six friends A, B, C, D, E and F are sitting on a bench facing north. A is sitting second to the right of C, who is an immediate neighbour of D. E is sitting to the immediate left of A. F is an immediate neighbour of both just D and B. If B is sitting at one extreme end of the bench, then who among the following is sitting at the other extreme end?",
+    "choices": [],
+    "answer": "D",
+    "explanation": "Given:\nSix friends A, B, C, D, E and F are sitting on a bench facing north.\n(1): B is sitting at one extreme end of the bench. So, there have two possibilities\nCase(I):\nCase (II):\n(2):\nF is an immediate neighbour of both just D and B.\nCase(I):\nCase (II):\n(3):\nA is sitting second to the right of C, who is an immediate neighbour of D.\ni.e.\nA is sitting second to the right of C and C is an immediate neighbour of D.\nSo, Case (II) is eliminated.\nCase (I):\nThen, the final arrangement is:\nTherefore,\nA\nis sitting at the other extreme end.\nHence, the correct answer is\nA.\nDownload Solution PDF\nShare on Whatsapp"
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are 8 people sitting around a circular table. A is sitting to the immediate left of B, who is third to the left of C. D is sitting between C and E, and F is sitting to the immediate right of E. Who is sitting to the immediate left of D?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "A",
+    "explanation": "Circular arrangement will be: B, _, _, C, D, E, F, A, B (from right of B). The two positions are not mentioned in question but it does not matter as it only asked about the immediate left of D."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are six persons sitting in a row facing North. A is sitting towards immediate left of B and immediate right of C. C is sitting to immediate right of F. D is immediate right of E who is to the left of F, then which two people are sitting in the center?",
+    "choices": [
+      "A) D and B",
+      "B) A and B",
+      "C) F and C",
+      "D) E and D"
+    ],
+    "answer": "A",
+    "explanation": "The seating arrangement is: E, D, F, C, A, B. F and C are sitting in the center."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In a row of 5 persons, A is sitting third to the right of B and fourth to the right of C. D is sitting immediate left of A and immediate right of E. Who is sitting at the extreme left end?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "A",
+    "explanation": "The seating arrangement is: C, B, E, D, A. C is sitting at the extreme left end."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In a circular arrangement of 5 persons, A is sitting between B and C, D is sitting immediate right of C, and E is sitting immediate left of B. Who is sitting between D and B?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) E"
+    ],
+    "answer": "A",
+    "explanation": "Explanation: The seating arrangement is: A, C, D, E, B, A (from the right of A)."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "There are 5 persons sitting in a row facing South. P is sitting to the immediate left of Q and immediate right of R. R is to the left of T. S is sitting to the immediate left of T. Who is sitting at the extreme right end of the row?",
+    "choices": [
+      "A) R",
+      "B) P",
+      "C) Q",
+      "D) T"
+    ],
+    "answer": "A",
+    "explanation": "The seating arrangement is:  T, S, Q, P, R. It is because all of them are facing South. Thus T is sitting at the extreme right end."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In a row of 12 persons, M is sitting 3rd from the left end, and N is sitting 5th from the right end. How many persons are sitting between M and N?",
+    "choices": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6"
+    ],
+    "answer": "A",
+    "explanation": "Total number of persons = 12. M is 3rd from the left and N is 5th from the right. There are 4 persons between M and N."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In a circular arrangement of 5 persons, A is sitting between B and C, D is sitting immediate right of C, and E is sitting immediate left of A. Who is sitting immediate left to B?",
+    "choices": [
+      "A) D",
+      "B) C",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "A",
+    "explanation": "The arrangement will be: A, E, B, D, C, A (from the left of A)."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In a row of 15 persons, X is sitting 7th from the left and Y is sitting 8th from the right. How many persons are sitting between X and Y?",
+    "choices": [
+      "A) 7",
+      "B) 8",
+      "C) 9",
+      "D) 0"
+    ],
+    "answer": "A",
+    "explanation": "Total number of persons = 15. X is 7th from the left and Y is 8th from the right. There is no person sitting between X and Y."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In a row of 10 persons facing North, A is sitting 2nd from the left end and B is sitting 4th from the right end. How many persons are sitting between A and B?",
+    "choices": [
+      "A) 3",
+      "B) 4",
+      "C) 5",
+      "D) 6"
+    ],
+    "answer": "A",
+    "explanation": "Total number of persons = 10. A is 2nd from the left and B is 4th from the right. There are 4 persons sitting between A and B."
+  },
+  {
+    "topic": "Seating Arrangements (Linear, Circular)",
+    "question": "In a rectangular table, A, B, C, and D are sitting on one side facing E, F, G, and H on the other side. A is opposite to E,D is opposite to G and B is opposite to F. Who is sitting opposite to C?",
+    "choices": [
+      "A) G",
+      "B) H",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "A",
+    "explanation": "A is opposite E, B is opposite F, D is opposite to G. Hence, C can be opposite to H only."
+  }
+]

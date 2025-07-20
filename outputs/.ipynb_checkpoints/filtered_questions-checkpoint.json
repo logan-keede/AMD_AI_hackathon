@@ -1,0 +1,230 @@
+[
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Seven people A, B, C, D, E, F, G sit in a circle, facing the center. A is between B and F. D is two seats to the left of E. C is adjacent to G. B is directly opposite F. E is not adjacent to D. Who is seated between D and E?",
+        "choices": [
+            "A) A) B",
+            "B) B) C",
+            "C) C) G",
+            "D) D) A"
+        ],
+        "answer": "C",
+        "explanation": "D is two left of E, so E is two right of D. B is opposite F, and A is between B and F. C is adjacent to G, placing G next to C. Only G fits between D and E without conflict."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Nine people are seated around a circular table, facing the center. A is immediately to the left of B, who is two seats to the right of C. D is directly opposite E, and F is seated between G and H. I is not adjacent to J, and K is seated two seats to the right of J. Who is seated two seats to the left of K?",
+        "choices": [
+            "A) A) B",
+            "B) B) C",
+            "C) C) D",
+            "D) D) E"
+        ],
+        "answer": "B",
+        "explanation": "From the clues, K is two seats to the right of J. Since I is not adjacent to J, J cannot be next to I. Placing all constraints in a circular arrangement shows that C is two seats to the left of K."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Nine people A, B, C, D, E, F, G, H, I sit around a circular table with 9 seats. A is seated between B and C. D is seated three seats to the left of E. F is seated directly opposite G. H is seated two seats to the right of I. I is seated adjacent to A. Who is seated directly opposite A?",
+        "choices": [
+            "A) A) B",
+            "B) B) C",
+            "C) C) E",
+            "D) D) F"
+        ],
+        "answer": "D",
+        "explanation": "From clues, A is between B and C. I is adjacent to A, so I is either next to B or C. H is two seats to the right of I, placing H near A. D is three seats left of E, and F is opposite G. Only F is directly opposite A based on seat positions."
+    },
+    {
+        "topic": "Puzzles involving generations and family tree logic",
+        "question": "In a family, A is the brother of B, who is the daughter of C. D is the son of E, who is the daughter of F. G is the son of H, who is the brother of I. J is the daughter of K, who is the mother of L. M is the son of N, who is the brother of O. If A is the paternal uncle of L, how is O related to J?",
+        "choices": [
+            "A) A) Cousin",
+            "B) B) Nephew",
+            "C) C) Uncle",
+            "D) D) Aunt"
+        ],
+        "answer": "B",
+        "explanation": "A is the paternal uncle of L, meaning A is the brother of L's father. Since J is the daughter of K, and K is the mother of L, L is the daughter of K. Thus, O is the brother of N, who is the father of M. Since M is the son of N, and N is the brother of O, O is the uncle of M. Since M is the son of N, and N is the brother of O, O is the uncle of M. Since J is the daughter of K, and K is the mother of L, O is the uncle of J."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "Three individuals, P, Q, and R, make the following statements: P says, 'Q is a liar.' Q says, 'R is a truth-teller.' R says, 'P is a liar.' If exactly one of them is a truth-teller, who is it?",
+        "choices": [
+            "A) A) P is the truth-teller",
+            "B) B) Q is the truth-teller",
+            "C) C) R is the truth-teller",
+            "D) D) None of them is a truth-teller"
+        ],
+        "answer": "B",
+        "explanation": "If Q is the truth-teller, then R is a truth-teller, which contradicts the condition of exactly one truth-teller. If P is the truth-teller, then Q is a liar, making R a truth-teller, again contradicting the condition. If R is the truth-teller, then P is a liar, making Q a truth-teller, which also contradicts. Thus, the only consistent scenario is if Q is the truth-teller, making R a liar and P a liar, satisfying the condition of exactly one truth-teller."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "Three individuals, P, Q, and R, make the following statements: P says, 'Q is a liar.' Q says, 'R is a truth-teller.' R says, 'P is a liar.' If exactly one of them is a truth-teller, who is it?",
+        "choices": [
+            "A) A) P is the truth-teller",
+            "B) B) Q is the truth-teller",
+            "C) C) R is the truth-teller",
+            "D) D) None of them is a truth-teller"
+        ],
+        "answer": "B",
+        "explanation": "If Q is the truth-teller, then R is a truth-teller, contradicting the condition of exactly one truth-teller. If P is the truth-teller, then Q is a liar, making R a liar, which fits. However, R's statement 'P is a liar' would be false, making R a liar, which is consistent. But this would mean two liars (Q and R), contradicting the condition. If R is the truth-teller, then P is a liar, making Q a truth-teller, again two truth-tellers. Only if Q is the truth-teller and P and R are liars, but this leads to contradiction. Thus, the only consistent configuration is Q as truth-teller, P and R as liars, making B correct."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "Three individuals, X, Y, and Z, are on an island where everyone is either a knight (always tells the truth) or a knave (always lies). X says, 'Y is a knave.' Y says, 'Z is a knight.' Z says, 'X is a knave.' If exactly one of them is a knight, who is the knight?",
+        "choices": [
+            "A) A) X is the knight",
+            "B) B) Y is the knight",
+            "C) C) Z is the knight",
+            "D) D) None of them are knights"
+        ],
+        "answer": "B",
+        "explanation": "If Y is the knight, then Z is a knight (per Y's statement), which contradicts the condition of only one knight. If X is the knight, then Y is a knave, making Z's statement true (X is a knave), which contradicts X being a knight. If Z is the knight, then X is a knave, making Y's statement false, so Y is a knave, and X's statement is false, making X a knave. Only Y being the knight fits without contradiction."
+    },
+    {
+        "topic": "Puzzles involving generations and family tree logic",
+        "question": "In a family, Ravi is the son of Arun's only sister. Arun's mother is the daughter of Ravi's paternal grandfather. Ravi's mother is the sister-in-law of Arun's father. How is Arun related to Ravi's mother?",
+        "choices": [
+            "A) A) Sister",
+            "B) B) Cousin",
+            "C) C) Sister-in-law",
+            "D) D) Aunt"
+        ],
+        "answer": "C",
+        "explanation": "Arun's mother is Ravi's paternal grandmother. Ravi's mother is Arun's sister-in-law, as she is married to Arun's brother."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Six people A, B, C, D, E, F sit around a circular table. A is directly opposite B. C is two seats to the left of D. E is adjacent to A and F. F is two seats to the right of C. Who is seated between D and E?",
+        "choices": [
+            "A) A) B",
+            "B) B) C",
+            "C) C) F",
+            "D) D) A"
+        ],
+        "answer": "A",
+        "explanation": "From clues: A opposite B, C two left of D, E adjacent to A and F, F two right of C. Placing them in order: C, D, F, E, A, B. Between D and E is F."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "On an island, three inhabitants A, B, and C make the following statements: A says, 'B is a truth-teller.' B says, 'C is a liar.' C says, 'A is a liar.' If exactly one of them is a truth-teller, who is the truth-teller?",
+        "choices": [
+            "A) A) A is the truth-teller",
+            "B) B) B is the truth-teller",
+            "C) C) C is the truth-teller",
+            "D) D) None of them is a truth-teller"
+        ],
+        "answer": "D",
+        "explanation": "Assume A is truthful: then B is truthful, contradicting the condition of only one truth-teller. Assume B is truthful: then C is a liar, making A's statement false, so A is a liar. But then C's statement 'A is a liar' would be true, contradicting C being a liar. Assume C is truthful: then A is a liar, making A's statement false (B is not a truth-teller), so B is a liar. But B's statement 'C is a liar' would then be false, contradicting C being truthful. Thus, no consistent configuration exists with exactly one truth-teller."
+    },
+    {
+        "topic": "Puzzles involving generations and family tree logic",
+        "question": "In a family tree, if Ravi is the brother-in-law of Anika, who is the daughter of Ravi's mother's only sister, and Ravi is the son of Anika's paternal grandfather's only son, how is Anika related to Ravi's mother's only sister?",
+        "choices": [
+            "A) A) Niece",
+            "B) B) Daughter",
+            "C) C) Mother",
+            "D) D) Sister"
+        ],
+        "answer": "B",
+        "explanation": "Anika is the daughter of Ravi's mother's only sister, making her the niece. Ravi's mother's only sister is Anika's aunt, so the relationship is mother."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "On an island, four inhabitants A, B, C, and D make the following statements: A says, 'B is a liar.' B says, 'C is a truth-teller.' C says, 'D is a liar.' D says, 'A is a truth-teller.' If exactly two are truth-tellers and two are liars, who are the truth-tellers?",
+        "choices": [
+            "A) A and B",
+            "B) B and C",
+            "C) C and D",
+            "D) D and A"
+        ],
+        "answer": "B",
+        "explanation": "Assume B and C are truth-tellers. B's statement 'C is a truth-teller' is true. C's statement 'D is a liar' is true. Then D's statement 'A is a truth-teller' is false, so D is a liar. A's statement 'B is a liar' is false, so A is a liar. This fits exactly two truth-tellers (B and C) and two liars (A and D)."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "On an island, four inhabitants A, B, C, and D make the following statements: A says, 'B is a liar.' B says, 'C is a truth-teller.' C says, 'D is a liar.' D says, 'A is a truth-teller.' If exactly two are truth-tellers and two are liars, who are the truth-tellers?",
+        "choices": [
+            "A) A and B",
+            "B) B and C",
+            "C) C and D",
+            "D) A and D"
+        ],
+        "answer": "C",
+        "explanation": "Assume C and D are truth-tellers. Then C's statement that D is a liar is false, contradicting D being truthful. Try B and C: B says C is truthful, which fits. C says D is a liar, which fits if D is a liar. D says A is truthful, which would make A a liar, but A says B is a liar, which would make B a liar, contradicting B being truthful. Only C and D can be truthful without contradiction."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Six people A, B, C, D, E, F sit in a circle. A is directly opposite D. B is two seats to the left of E. C is adjacent to F. E is not adjacent to B. F is not adjacent to D. Who is sitting between B and E?",
+        "choices": [
+            "A) A) A",
+            "B) B) C",
+            "C) C) F",
+            "D) D) D"
+        ],
+        "answer": "C",
+        "explanation": "B is two left of E. C is adjacent to F. F is not adjacent to D, so F is not opposite A. E is not adjacent to B, so F must be between B and E to satisfy all constraints."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Six people A, B, C, D, E, F sit around a circular table. A is directly opposite D. B is two seats to the left of E. C is adjacent to both F and B. F is not adjacent to A. Who is sitting between B and E?",
+        "choices": [
+            "A) A) C",
+            "B) B) D",
+            "C) C) F",
+            "D) D) A"
+        ],
+        "answer": "C",
+        "explanation": "B is two left of E. C is adjacent to both F and B. F is not adjacent to A. Since A is opposite D, D is not adjacent to A. C must be between B and E to satisfy adjacency and positioning constraints."
+    },
+    {
+        "topic": "Seating Arrangements (Linear, Circular)",
+        "question": "Nine people sit around a circular table. A is between B and C. D is two seats to the right of E. F is directly opposite G. H is adjacent to I, who is not adjacent to A. J is seated such that there are two people between J and D. Who is seated directly opposite A?",
+        "choices": [
+            "A) A) B",
+            "B) B) C",
+            "C) C) F",
+            "D) D) G"
+        ],
+        "answer": "C",
+        "explanation": "A is between B and C. D is two seats right of E. F is opposite G. J has two between J and D. Only F is directly opposite A based on constraints."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "On an island, four inhabitants A, B, C, and D make the following statements: A says, 'B is a liar.' B says, 'C is a truth-teller.' C says, 'D is a liar.' D says, 'A is a truth-teller.' If exactly two are truth-tellers and two are liars, who are the truth-tellers?",
+        "choices": [
+            "A) A and B",
+            "B) B and C",
+            "C) C and D",
+            "D) A and D"
+        ],
+        "answer": "D",
+        "explanation": "If A and D are truth-tellers, then B is a liar (A's statement), C is a liar (B's statement), and D's statement is true (A is a truth-teller). This fits exactly two truth-tellers and two liars. Other options lead to contradictions or inconsistent numbers of truth-tellers."
+    },
+    {
+        "topic": "Puzzles involving generations and family tree logic",
+        "question": "In a family, A is the only child of B and C. D is the brother of B. E is the daughter of D and F. G is the son of E and H. I is the mother of G. J is the father of I. How is J related to A?",
+        "choices": [
+            "A) A) Father",
+            "B) B) Grandfather",
+            "C) C) Uncle",
+            "D) D) Cousin"
+        ],
+        "answer": "B",
+        "explanation": "J is the father of I, who is the mother of G. G is the son of E, who is the daughter of D and F. D is the brother of B, who is the parent of A. Thus, J is the grandfather of A."
+    },
+    {
+        "topic": "Truth-teller and Liar Problems",
+        "question": "Three individuals, P, Q, and R, are on an island where each is either a truth-teller (always tells the truth) or a liar (always lies). P says, 'Q is a liar.' Q says, 'R is a truth-teller.' R says, 'P is a liar.' How many truth-tellers are there?",
+        "choices": [
+            "A) A) 1",
+            "B) B) 2",
+            "C) C) 3",
+            "D) D) 0"
+        ],
+        "answer": "A",
+        "explanation": "Assume P is a truth-teller: then Q is a liar. If Q is a liar, then R is not a truth-teller. If R is a liar, then P is not a liar, which contradicts P being a truth-teller. So P cannot be truthful. Try P as liar: then Q is not a liar, so Q is truthful. Q says R is a truth-teller, so R is truthful. R says P is a liar, which is true. Thus, Q and R are truthful, P is liar. Only 2 truth-tellers, but this contradicts. Only valid configuration: P is liar, Q is truth-teller, R is liar. Only 1 truth-teller."
+    }
+]

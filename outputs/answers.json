@@ -1,0 +1,54 @@
+[
+    {
+        "reasoning": "If X is the truth-teller, then Y is a liar. This would mean Y's statement that Z is a truth-teller is false, so Z is a liar. Then Z's statement that X and Y are of the same type would be false, which is consistent because X is a truth-teller and Y is a liar. This makes exactly two liars (Y and Z), so X is the truth-teller. Hence, the answer is A.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "A is the father of C, and D is the brother of C, making D the son of A. E is the daughter of D, so E is the daughter of A's son, making E A's niece.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Given the circular arrangement, A is two seats apart from B, C is next to D, E is three seats apart from F, and G is between A and C. From these constraints, B cannot be next to G as G is between A and C, and A is two seats from B. F is three seats apart from E, so they are not next to each other. Thus, neither 1 nor 2 must be true. Hence, the correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "If X is the truth-teller, then Y is a liar. This would mean Z is a truth-teller (as per Y's statement), but Z's statement would then be a lie, creating a contradiction. If Y is the truth-teller, then Z is a truth-teller, but Z's statement would be a lie, again a contradiction. If Z is the truth-teller, then X is a liar, making Y's statement true, which means Z is a truth-teller. This fits with exactly two liars (X and Y). Thus, Z is the truth-teller.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "Given the circular arrangement, A is two seats apart from B, C is next to D, and E is two seats apart from F. These positions do not necessarily place A next to C or B next to E. The arrangement can vary, so neither statement must be true in all cases. Hence, the correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "Given six people seated around a circular table, A is two seats away from B, C is next to D, and E is opposite F. These constraints do not necessarily place A next to C or B next to E. Therefore, neither statement 1 nor 2 must be true. Hence, the correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "I is the child of H, who is the father of I. F is the sibling of E, and D is the son of E. Since A and B are siblings, and D is the son of E, I and D are cousins. Therefore, I is the cousin of F. The correct option is 'B'.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Assume A is a truth-teller. Then B is a liar. If B is a liar, then C is not a truth-teller, so C is a liar. If C is a liar, then D is not a liar, so D is a truth-teller. This gives us two truth-tellers (A and D) and two liars (B and C), which fits the condition. Thus, the truth-tellers are A and D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "Assume A is a truth-teller. Then B is a liar. If B is a liar, then C is not a truth-teller. If C is a liar, then D is not a liar, making D a truth-teller. This gives us A and D as truth-tellers, which fits the condition of exactly two truth-tellers. Checking other assumptions leads to contradictions, so the correct answer is A and D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "C and D are siblings, so A is their father and B must be their mother. Since E is the brother of A, E is the brother-in-law of B. Hence, the correct option is 'B'.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Given six people seated around a circular table, A is two seats away from B, C is next to D, and E is opposite F. These constraints do not necessarily place A next to C or B next to E. Therefore, neither statement 1 nor 2 must be true. Hence, the correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "A is the brother of B, and B is the sister of C, making A and B siblings. C is the daughter of D, so D is the parent of C and B. E is the father of D, making E the parent of D, B, and A. Therefore, A is the son of E. The correct answer is 'B'.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "A is the brother of B, and B is the daughter of C, so C is the parent of both A and B. D is the son of E, and E is the brother of A, making E the sibling of A. Since C is the parent of A and E is the brother of A, E is also a child of C. Therefore, D, the son of E, is the grandchild of C. The correct relationship is grandson.",
+        "answer": "C"
+    }
+]

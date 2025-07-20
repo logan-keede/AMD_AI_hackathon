@@ -1,0 +1,242 @@
+[
+    {
+        "reasoning": "Amit's father's cousin is Neha's mother. This means Neha is the daughter of Amit's father's cousin, making her Amit's cousin's daughter. Therefore, Neha is Amit's cousin's daughter, which makes her Amit's niece.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "Karan's maternal uncle is the father of Shweta. This means Shweta is the daughter of Karan's maternal uncle, making her Karan's cousin. Therefore, the correct answer is B.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "A is B's father, B is C's sister, so A is C's uncle. D is C's mother, making A the father-in-law of D. E is D's daughter-in-law, so E is married to D's child. Since D is C's mother, E is C's mother-in-law. Therefore, E is A's daughter-in-law.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "G is the brother of C's sister B. C is married to F, who is the son of Q's maternal grandfather. D is C's daughter from a previous marriage. Since G is B's brother and B is C's sister, G is D's uncle by marriage. Hence, the correct answer is 'B'.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "V is the father of U, making V the father-in-law of U since U is married to S, who is R's daughter. Q's paternal grandfather is V's brother, so V is Q's maternal grandfather. The correct answer is A.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Priya is Ravi's sister and married to Arjun. Meera is Arjun's sister and married to Ravi's father-in-law. Since Meera is Arjun's sister and Arjun is married to Priya (Ravi's sister), Meera is Ravi's sister-in-law. Hence, the correct option is 'A'.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Q's paternal grandfather has a son V, who is married to W and has a daughter X. X is married to Y, and Y's brother is Z. Since Z is Y's brother, he is the brother-in-law of X. X is Q's cousin (daughter of V, who is Q's paternal uncle). Therefore, Z is Q's brother-in-law.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "The person in the photo is the only son of Q's father's sister's son, which means he is Q's cousin. He is also the brother-in-law of Q's sister's only niece, making him Q's cousin's son. Thus, the correct answer is C.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "Rohan's paternal grandfather has two sons (Rohan's father and the elder son married to Sheela) and one daughter. The daughter is married to Vikram, who has a son Karan. Arjun is the son of Sheela, who is the wife of the elder son of Rohan's grandfather. Since Arjun and Karan are children of different parents and not related by blood, they have no blood relation. The correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "T is the maternal grandfather of P, meaning he is the father of P's mother. Since P's father is married to Q's mother, T is also the father of Q's mother. R is the brother of Q, so T is the father of R's mother, making T R's father-in-law. Hence, the correct answer is 'A'.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Bina's father is the only son of Kavita, making him Bina's father. Kavita is the mother-in-law of Esha, so Esha's husband is Kavita's son, which is Bina's father. Esha's husband has two children, one of whom is married to Arjun's brother. This means Arjun's brother is Esha's son, making Arjun the brother-in-law of Bina. Hence, the correct answer is 'A'.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Karan's maternal uncle is his mother's brother. Since Karan's mother has no siblings, the maternal uncle is Karan's father. The uncle's wife is Arjun's sister, making Arjun Karan's cousin. Hence, the correct answer is 'A'.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "The man in the photograph is Ravi's cousin. The first statement indicates that the man's mother's only daughter (Ravi's aunt) is Ravi's father's sister-in-law, making the man Ravi's cousin. The second statement confirms this relationship through the maternal grandfather's son (Ravi's uncle) having two daughters, one of whom is married to the man's brother, further confirming the cousin relationship.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "J is the son of C, who is the brother of E (sister of A). H is the daughter of B, who is the daughter of Mr. X. Since J's father (C) is the brother of E, and E is the sister of A, who is the brother of B, J is the cousin of H. Therefore, J is the maternal cousin of H. The correct answer is A.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Arjun's father's only daughter is Arjun's sister. Her husband's father-in-law is Arjun's uncle. The woman is this uncle's wife, making her Arjun's paternal grandmother. Hence, the correct answer is 'B'.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Esha's maternal uncle's only brother is Esha's paternal uncle. This uncle is married to Priya, making Priya Esha's paternal aunt. Priya has a son, Rohan, so Rohan is Esha's cousin. Rohan's paternal grandfather's only daughter is Meena, making Meena Rohan's cousin. Therefore, Meena is Esha's cousin.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "D is the parent of C, and E is married to D. F is the son of C's maternal aunt, who is the sister of E's spouse. Since E's spouse is D, the maternal aunt of C is the sister of D. Therefore, F is the son of D's sister, making F the cousin of A. Hence, the correct answer is 'B'.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "E is the son of D and C, who is Y's sister. Z is Y's wife, and X is Y's son. F is E's wife and is the maternal aunt of A, who is Z's son. This means F is the sister of Z, making E the brother-in-law of X. Hence, the correct answer is 'C'.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "Q's maternal uncle's daughter (R) is married to Q's paternal aunt's son (S). Since R is Q's cousin (daughter of maternal uncle) and S is Q's cousin (son of paternal aunt), their marriage makes S Q's brother-in-law. Thus, the correct answer is B.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Anjali's mother's only brother is her paternal uncle. The man is the son of this uncle, making him Anjali's cousin. The statement confirms they share a common grandparent (paternal grandfather), so they are cousins. The correct answer is 'B'.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "E is immediately left of A, so the sequence is E-A. A is 2nd to the left of C, so the sequence is E-A-C. F sits between D and B, and B is at the extreme right. The row is D-F-B. Combining both sequences, the full row is D-F-E-A-C-B. Thus, the extreme left is D.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Q is 2nd from the right end, P is immediate left of Q, so the order is P-Q. T is at the extreme left, so the order is T-P-Q. S is not at an end, so S must be in the middle. The remaining person is R, so the middle position is R.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "S is at the extreme left. R is between P and Q, so the order is S, P, R, Q. T is to the immediate right of Q, so the order is S, P, R, Q, T. The middle position is R.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "C is between A and E, so the order is A-C-E or E-C-A. B is to the immediate right of E, so E must be on the left. Thus, the order is A-C-E-B. F is at the extreme right, and D is second to the left of F, so D is at position 4 (since F is at 6). The immediate left of D is C.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "O is between L and M, and P is next to L. N is at the right end, and Q is second to the left of N. This places Q at the fifth position from the left. The row order is P, O, L, M, Q, N. The third to the right of P is M.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "C is third to the right of A, so if A is at position 1, C is at 4. B is an immediate neighbor of C, so B is at 3 or 5. E is fourth to the left of B, so if B is at 3, E is at -1 (invalid). If B is at 5, E is at 1. A is at 1, so E cannot be at 1. Thus, B must be at 5, E at 1. G is not an immediate neighbor of A (position 1), so G cannot be at 2. The center is position 4, which is C.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "From the clues, we can arrange the people as follows: C is to the immediate right of F, so F-C. A is immediate left of B and immediate right of C, so A-B and C-A. D is immediate right of E, who is to the left of F. This gives E-D and F-E. Combining all, the order is E-D-F-C-A-B. The center positions are third and fourth, which are F and C. Hence, the answer is A.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "From the clues: Q is to the right of S, so S < Q. P is to the right of Q, so S < Q < P. T is to the left of R and to the right of P, so P < T < R. Combining all: S < Q < P < T < R. The middle house is T.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "Raju is to the immediate right of Praveen, so the order is Praveen-Raju. Mohan is between Balu and Raju, so the order is Balu-Mohan-Raju. David is to the extreme right, so the full order is Praveen-Raju-Mohan-Balu-David. The second from the left is Balu.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "From the given information, we know E is to the immediate left of D, C is between A and B, and F is between E and A. This forms the sequence E-F-A-C-B-D. Thus, the person to the immediate right of B is D.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Tom is sitting to the right of Rakesh and left of John, so the order is Rakesh - Tom - John. Suresh is facing Rakesh, so Suresh is opposite Rakesh. Anil is to the left of David. The person to the left of Tom is Rakesh. Hence, the answer is A.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "A is third to the left of B. Only one person sits between A and G, so G is second to the right of A. F is to the immediate right of G, so F is third to the right of A. D is second to the right of C, and C is not adjacent to A. H is not adjacent to G. By arranging the positions, H is third to the right of D. Thus, the answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "In a circular table with 8 people, each person has one person opposite them. X is third to the left of Y, so X and Y are separated by two people. Z is not adjacent to Y, and there is one person between X and Z. V is immediately to the right of W, and U is adjacent to V. T is not adjacent to X. By arranging these positions, W's opposite is determined to be X.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Initially, A is facing B. B is to the right of E and left of C, so the order is E, B, C. C is to the left of D, so the order is C, D. F is to the right of A, so the order is A, F. After D and F exchange seats, D is to the right of F. The new order becomes E, B, C, D, F, A. Now, D is to the left of F, so the person to the left of D is C.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "In a hexagonal table, each person has one person to their immediate left and right, and one person opposite. A is to the immediate left of B, so the order is A-B. F is opposite B, so F is two seats away from B. D is between A and F, so the order is A-D-F. Since the table is hexagonal, the person opposite D would be E. Hence, the answer is B.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "In the circle, P is second to the right of U, so the order is U, T, P. Q is an immediate neighbor of U, so Q is next to U. S is second to the right of R, and T is not next to R. The only position left for S to be second to the right of R is if R is next to T, making S next to R. Thus, the immediate right of P is R.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "A and B are at the ends, so the order is A _ _ _ _ B. C and D are in the center, so the row is A C D D C B or A D C D C B. F is to the left of A, so F must be at the far left. The row is F A C D D C B. The person to the right of B is none, but since the row is linear, the correct arrangement must be F A C D B C. The person to the right of B is C.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "J sits second to the right of M (facing center). L sits third to the right of J. P is immediate left of L. Q is opposite P. N is not adjacent to M. By arranging positions, Q is opposite P, and L is opposite N. Thus, the person opposite J is O.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "G is 6th from left, H is 4th to the right of G (position 10). Three between H and I means I is 14th. J is immediate right of I (15th). K is neighbor of H (position 9 or 11). No one to right of J means J is last. Total positions: 15. Answer is B.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Play C is on Tuesday. Plays A, E, and F are consecutive in that order. Since D is not on Monday or Saturday, it must be on Wednesday, Thursday, or Friday. If A, E, F are consecutive, they could be on Monday-Tuesday-Wednesday (but C is on Tuesday), so they must be on Wednesday-Thursday-Friday. This leaves Monday and Saturday for B and D. Since D cannot be on Monday or Saturday, B must be on Monday.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "If Adam were a truth-teller, his statement that 'We are both liars' would be true, which is a contradiction. Therefore, Adam must be a liar. If Adam is a liar, his statement is false, meaning it is not true that both are liars. Thus, at least one of them is a truth-teller. Since Adam is a liar, Alec must be a truth-teller. Hence, the correct answer is C.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "Alex's statement implies that exactly one of them is a liar. If Alex is a truth-teller, then Ali must be a liar. If Alex is a liar, then the statement is false, meaning both are liars or both are truth-tellers. But since exactly one is a liar, the only consistent scenario is that Alex is truthful and Ali is a liar. Thus, Ali is a liar.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Ashley's statement does not provide enough information to determine Antoine's truthfulness or family relation. The statement only indicates they are from the same family, but it does not confirm if Antoine is a truth-teller or liar. Therefore, the correct answer is 'D' as we cannot determine the relationship based on the given information.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "Ariel's statement implies that exactly one person among them is a truth-teller. If Ben were a truth-teller, then Ariel's statement would be true, meaning only Ben is a truth-teller. However, if Ben is a liar, then Ariel's statement would be false, meaning more or fewer than one person is a truth-teller. Since the statement is made by Ariel alone, we cannot determine Ben's status without more information about others. Thus, there is not enough information to determine Ben's type.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "Chris's statement is 'At least one of us is a truth-teller.' If Chris is a liar, then the statement is false, meaning both Chris and Claire are liars. If Chris is a truth-teller, the statement is true, which could mean either Chris or Claire is a truth-teller. However, the statement itself confirms that at least one is a truth-teller, making option C necessarily true regardless of their individual statuses. Thus, we can determine that at least one is a truth-teller.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "If both are truth-tellers, their statements are true. If both are liars, their statements are false. If Chris is a liar, then his statement is false, meaning neither is a truth-teller, which would make Claire a liar, consistent. If Chris is a truth-teller, Claire must also be a truth-teller. Thus, they must be either both truth-tellers or both liars. Option C states they are from the same family (both truth or both liar), which matches this conclusion.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "David's statement is 'At least one of us is a liar.' If David is a truth-teller, then his statement is true, meaning at least one of them is a liar. If David is a liar, then his statement is false, meaning neither is a liar. However, if both were truth-tellers, David's statement would be false, which contradicts him being a truth-teller. Thus, we cannot determine if exactly one is a liar or both are liars. The correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "Elizabeth's statement is a conjunction. If she were a truth-teller, her statement would be true, meaning she is a liar and Ellie is a truth-teller, which is a contradiction. If she is a liar, her statement is false, so either she is not a liar or Ellie is not a truth-teller. Since she is a liar, the first part is false, making the whole statement false. Ellie's status cannot be determined from the given information. Hence, the answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "Hannah's statement is a negation of a conjunction. If Hannah is a truth-teller, her statement is true, meaning Gregory is not a truth-teller. If Hannah is a liar, her statement is false, meaning Gregory and she are both truth-tellers. This leads to a contradiction if Hannah is a liar, so she must be a truth-teller and Gregory a liar. Thus, the correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "If Izzie is a truth-teller, then her statement is true, so she is a truth-teller. Jessica says they are from the same family. If Jessica is a truth-teller, then her statement is true. If Jessica is a liar, then they are not from the same family. However, the question does not provide information about their family origins, so the only certain truth is Izzie's statement. Thus, at least one of them is telling the truth, making option D correct.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "If John is telling the truth, then they are from different families, which would mean Jennifer is lying. If John is lying, then they are from the same family, which would mean Jennifer is telling the truth. In either case, exactly one of them is telling the truth. Therefore, the correct answer is D.",
+        "answer": "D"
+    },
+    {
+        "reasoning": "If Josh is a truth-teller, then his statement that 'We are both truth-tellers' would be true, making Karina a truth-teller. If Josh is a liar, his statement would be false, meaning at least one of them is a liar. However, Karina says 'Josh isn't lying,' which would be a lie if Josh is a liar. This creates a contradiction if both are liars. Thus, the only consistent scenario is that both are truth-tellers.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "If Kaitlyn is a truth-teller, her statement 'I always tell the truth' is true, which means Lorna's statement 'Kaitlyn is lying right now' must be false, making Lorna a liar. This is consistent. If Kaitlyn were a liar, her statement would be false, meaning she does not always tell the truth. However, Lorna's statement would then be true, making Lorna a truth-teller. This is also consistent. But since only one of the options can be correct, and the scenario where Kaitlyn is a truth-teller and Lorna is a liar is logically consistent, the correct answer is A.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Nicole says 'We are not both truth-tellers.' If Nicole is a truth-teller, then Sarah must be a liar. Sarah says 'She's lying!' If Sarah is a liar, then her statement is false, meaning Nicole is telling the truth. This is consistent. If Nicole were a liar, her statement would be false, meaning they are both truth-tellers, but Sarah's statement would then be true, creating a contradiction. Thus, Nicole is a truth-teller and Sarah is a liar.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "If Serena is telling the truth, then exactly one of them is truthful. But if Spencer is lying, then it's not true that exactly one is lying, which means both are lying or both are truthful. This creates a contradiction. If Serena is lying, then it's not true that exactly one is truthful, meaning both are truthful or both are liars. If Spencer is truthful, then exactly one is lying, which would mean Serena is lying. This is consistent. Hence, Serena is liar and Spencer is truth-teller.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "The statement made by the messenger is indirect. The messenger is relaying a reply that someone says they live on the western side of the island. Without knowing the truth of the original statement or the messenger's own nature, we cannot determine if the messenger is truthful or lying. The messenger could be a truth-teller relaying a true statement, or a liar relaying a false one. Therefore, it is not possible to determine the messenger's nature based on the given information.",
+        "answer": "C"
+    },
+    {
+        "reasoning": "If both statements were true, then Andrew would be wearing the blue shirt and Bob the red. But the condition states at least one is false. If the blue-shirted man is lying, he is not Andrew, so Andrew must be the red-shirted man. If the red-shirted man is lying, he is not Bob, so Bob must be the blue-shirted man. Either way, Andrew must be wearing the red shirt. Thus, the answer is B.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "Bob's statement is a conditional: 'If 48 is odd then I am a truth-teller.' Since 48 is even, the antecedent is false, making the entire statement true regardless of Bob's actual nature. Chris says Bob is a liar. If Chris is truthful, then Bob is a liar, but Bob's statement would then be a true statement made by a liar, which is a contradiction. Therefore, Chris must be lying, and Bob is truthful. Hence, the correct answer is A.",
+        "answer": "A"
+    },
+    {
+        "reasoning": "Phoebe's statement is a conditional. If 34 is odd (which it is not), then she is a truth-teller. Since the antecedent is false, the entire statement is true regardless of her type. Calvin says Phoebe is a liar. If Calvin is truthful, Phoebe must be a liar, but her statement would then be false, which is consistent. If Calvin is a liar, Phoebe would be a truth-teller, but her statement would be true, which is also consistent. However, only one can be truthful. If Phoebe is a truth-teller, her statement is true, but the antecedent is false, so she must be a liar. Thus, Calvin is truthful.",
+        "answer": "B"
+    },
+    {
+        "reasoning": "If Don's statement is true, then all are liars, which contradicts the condition that at least one is a truth-teller. If Cheryl's statement is true, then three are liars, but that would mean only one is a truth-teller, which is possible. However, if Ali's statement is true, then exactly one is a liar, which is also possible. Ben's statement claims two are liars, which is also possible. However, if Ali's statement is true, then only one is a liar, which means the others are truth-tellers. This is consistent with the condition that at least one is a truth-teller. Therefore, Ali's statement is true.",
+        "answer": "C"
+    }
+]

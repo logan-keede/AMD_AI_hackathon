@@ -1,0 +1,78 @@
+[
+    {
+        "answer": "D",
+        "reasoning": "From the clues, A is between B and F, and B is opposite F, so they are seated across the circle. D is two seats left of E, and E is not adjacent to D. C is adjacent to G. By placing the people in a circle and satisfying all conditions, D is between E and A. Thus, the correct answer is D."
+    },
+    {
+        "answer": "D",
+        "reasoning": "From the clues, K is two seats to the right of J. Since there are nine seats, moving two seats to the right of K would land two seats to the left of K. D is directly opposite E, and with the seating arrangement, D ends up two seats to the left of K."
+    },
+    {
+        "answer": "D",
+        "reasoning": "A is between B and C. I is adjacent to A, so I is either next to B or C. H is two seats to the right of I. D is three seats to the left of E. F is opposite G. By placing the people around the table according to these constraints, D ends up directly opposite A."
+    },
+    {
+        "answer": "C",
+        "reasoning": "A is the paternal uncle of L, meaning A is the brother of L's father. Since A is the brother of B, and B is the daughter of C, C is the parent of B and A. D is the son of E, who is the daughter of F. J is the daughter of K, who is the mother of L. M is the son of N, who is the brother of O. Since O is the brother of N, and N is the father of M, O is the uncle of M. Since A is the brother of B, and B is the daughter of C, A is the brother of C's child. Since J is the daughter of K, and K is the mother of L, O is the uncle of L. Therefore, O is the uncle of J."
+    },
+    {
+        "answer": "B",
+        "reasoning": "If Q is the truth-teller, then R is a truth-teller, which contradicts the condition of exactly one truth-teller. If P is the truth-teller, then Q is a liar, making R a truth-teller, again contradicting the condition. If R is the truth-teller, then P is a liar, making Q a truth-teller, which also contradicts the condition. Therefore, the only possibility is that none are truth-tellers, making D the correct answer."
+    },
+    {
+        "answer": "B",
+        "reasoning": "If Q is the truth-teller, then R is a truth-teller, which contradicts the condition of exactly one truth-teller. If P is the truth-teller, then Q is a liar, making R a truth-teller, again contradicting the condition. If R is the truth-teller, then P is a liar, making Q a truth-teller, which also contradicts the condition. Thus, the only possibility is that none are truth-tellers, making D the correct answer. However, since the question states exactly one is a truth-teller, the correct answer must be B, as it is the only consistent choice when assuming Q is the truth-teller and resolving contradictions."
+    },
+    {
+        "answer": "C",
+        "reasoning": "If Z is the knight (truth-teller), then Z's statement 'X is a knave' is true, making X a knave. X's statement 'Y is a knave' would then be a lie, making Y a knight. But this contradicts the condition that only one is a knight. If Y is the knight, then Z is a knight, which also contradicts the condition. If X is the knight, then Y is a knave, and Z is a knight, again contradicting the condition. Thus, the only consistent scenario is if Z is the knight, making X and Y knaves, satisfying the condition of exactly one knight."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Ravi is the son of Arun's only sister, making Arun Ravi's uncle. Arun's mother is Ravi's paternal grandfather's daughter, so Arun and Ravi share the same grandfather. Ravi's mother is the sister-in-law of Arun's father, meaning Arun's father is married to Ravi's mother's sister. Thus, Arun is the cousin of Ravi's mother."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Given the circular arrangement, we start by placing A and B opposite each other. C is two seats to the left of D, and F is two seats to the right of C. E is adjacent to A and F. By placing the individuals step by step and checking adjacency and positions, we find that C is seated between D and E."
+    },
+    {
+        "answer": "B",
+        "reasoning": "If B is the truth-teller, then B's statement 'C is a liar' is true, making C a liar. C's statement 'A is a liar' would then be false, making A a truth-teller. This contradicts the condition that only one is a truth-teller. Re-evaluating, if B is truthful, C is a liar, and A is a liar, then only B is truthful, satisfying the condition. Thus, B is the truth-teller."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Anika is the daughter of Ravi's mother's only sister, making that sister Anika's aunt. Ravi is the brother-in-law of Anika, which means he is married to her sister or the brother of her spouse. Since Ravi is the son of Anika's paternal grandfather's only son, he is Anika's uncle. Therefore, Anika is the sister of Ravi's mother's only sister."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If D is a truth-teller, then A is a truth-teller. If A is a truth-teller, then B is a liar. If B is a liar, then C is a liar. If C is a liar, then D is a truth-teller, which is consistent. Thus, D and A are truth-tellers, and B and C are liars, satisfying the condition of exactly two truth-tellers."
+    },
+    {
+        "answer": "D",
+        "reasoning": "If D is a truth-teller, then A is a truth-teller. If A is a truth-teller, then B is a liar. If B is a liar, then C is a liar. If C is a liar, then D is a truth-teller, which is consistent. Thus, A and D are truth-tellers, and B and C are liars, satisfying the condition of exactly two truth-tellers."
+    },
+    {
+        "answer": "C",
+        "reasoning": "In a circle of six people, A is opposite D. B is two seats left of E, so B and E are separated by one person. C is adjacent to F, and E is not adjacent to B. F is not adjacent to D. Placing A and D opposite each other, B and E with one seat between them, and C next to F, the only person between B and E is C."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Given A is opposite D, and B is two seats left of E, with C adjacent to both B and F, and F not adjacent to A, the arrangement must be A, B, C, E, F, D. Thus, between B and E is C."
+    },
+    {
+        "answer": "D",
+        "reasoning": "A is between B and C, so the order is B-A-C or C-A-B. D is two seats to the right of E. F is directly opposite G. H is adjacent to I, who is not adjacent to A. J has two people between him and D. By placing the people around the table and checking positions, D is directly opposite A."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Assume D is a truth-teller. Then A is a truth-teller (as D says 'A is a truth-teller'). This makes two truth-tellers (A and D). B says 'C is a truth-teller,' but if B is a liar, then C is a liar. C says 'D is a liar,' but if C is a liar, then D is a truth-teller, which matches. Thus, A and D are truth-tellers, and B and C are liars."
+    },
+    {
+        "answer": "B",
+        "reasoning": "J is the father of I, and I is the mother of G. G is the son of E and H, and E is the daughter of D and F. D is the brother of B, and B is the parent of A. Therefore, J is the grandfather of A."
+    },
+    {
+        "answer": "A",
+        "reasoning": "If P is a truth-teller, then Q is a liar. If Q is a liar, then R is not a truth-teller. If R is a liar, then P is not a liar, which contradicts P being a truth-teller. Thus, P must be a liar. If P is a liar, then Q is not a liar, so Q is a truth-teller. If Q is a truth-teller, then R is a truth-teller. If R is a truth-teller, then P is a liar, which is consistent. So, Q and R are truth-tellers, making the answer 2. However, this contradicts the initial assumption. Re-evaluating, only Q is a truth-teller, so the answer is 1."
+    }
+]

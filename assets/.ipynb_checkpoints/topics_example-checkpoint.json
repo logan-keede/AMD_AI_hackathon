@@ -1,0 +1,108 @@
+{
+    "Truth-teller and Liar Problems": [
+        {
+            "question": "On an island, three inhabitants A, B, and C make statements: A says, 'B is a liar.' B says, 'C is a liar.' C says, 'A and B are of different types.' If exactly one is liar, who are the truth-tellers?",
+            "choices": [
+                "A) A and B",
+                "B) B and C",
+                "C) A and C",
+                "D) None"
+            ],
+            "answer": "C",
+            "explanation": "If we assume A to be the liar, then it means it lied about B being a liar. So that makes B a truth-teller. So it means that according to B's statement, C is a liar. So A and B are of the same type. But A is a liar and B is a truth-teller. This leads to a contradiction. Hence, A has to be a truth-teller. So this makes B a liar. This indicates that C is a truth-teller and A and B are of different types. So A and C are the truth tellers. This makes the third option, C, the correct option."
+        },
+        {
+    "question": "Two people, Red and Blue, stand before you. Red says, “We are both knaves.” What are they really?",
+    "choices": [
+      "A) Red is truth-teller",
+      "B) Blue is is truth-teller",
+      "C) Both are truth-tellers",
+      "D) Both are liars"
+    ],
+    "answer": "B",
+    "explanation": "Red cannot be a truth-teller, because then he would be lying by saying he is a liar. Therefore he is a liar, and his statement is a lie, meaning that Blue must be a truth-teller."
+    },
+    {
+    "question": "A new island is discovered, with a third type of inhabitant: spies, who can either tell the truth or lie. You encounter three people, one of each, but you don’t know which is which. Red says, “I am a truth-teller.” Blue says, “Red is telling the truth.” Green says, “I am the spy.” Who is what?",
+    "choices": [
+      "A) Red is truth-teller",
+      "B) Blue is is truth-teller",
+      "C) Both are truth-teller",
+      "D) Green is the truth-teller"
+    ],
+    "answer": "B",
+    "explanation": "Could Blue be lying? That would mean that Red is also lying, so Green would have to be the truth-teller. But Green cannot be the truth-teller, because the truth-teller would not lie about who he is. Therefore Blue is telling the truth, so Red is the truth-teller. Since Blue is a non-truth-teller who told the truth, he must be the spy, making Green the liar."
+
+}
+    ],
+        "Seating Arrangements (Linear, Circular)": [ 
+   {
+    "question": "Five people A, B, C, D and E are, seated about a round table. Every chair is spaced equidistant from adjacent chairs. (i) C is seated next to A. (ii) A is seated two seats from D. (iii) B is not seated next to A. Which of the following must be true? 1. D is seated next to B. 2. E is seated next to A. Select the correct answer from the codes given below:",
+    "choices": [
+      "A) 1 only",
+      "B) 2 only",
+      "C) Both 1 and 2",
+      "D) Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Given that, Five people A, B, C, D and E are, seated about a round table. Every chair is spaced equidistant from adjacent chairs. (i) C is seated next to A. (ii) A is seated two seats from D. (iii) B is not seated next to A. Now, It can be concluded from the given information 1. D is seated next to B. A is not seated next to B and A is two seats from D, thus D must seat next to B EACBD or EACDB Hence statement 1 is correct 2. E is seated next to A. EACBD or EACDB Hence statement 2 is correct"
+  },
+  {
+    "question": "Four children are sitting in a row. A is occupying the seat next to B but not next to C. If C is not sitting next to D, who is/are occupying seat/seats adjacent to D?",
+    "choices": [
+      "A) B",
+      "B) A",
+      "C) B and A",
+      "D) Impossible to tell"
+    ],
+    "answer": "B",
+    "explanation": "Given that, Four children are sitting in a row. A is occupying the seat next to B but not next to C. C is not sitting next to D Now, It can be concluded from the given information two possibilities: C B A D or D A B C However, in both cases A is sitting next to D"
+  },
+  {
+    "question": "Five people A, B, C, D and E are seated about a round table. Every chair is spaced equidistant from adjacent chairs. i. C is seated next to A. ii. A is seated two seats from D. iii. B is not seated next to A. On the basis of above information, which of the following must be true? 1. D is seated next to B. 2. E is seated next to A. 3. D and C are separated by two seats. Select the correct answer using the code given below:",
+    "choices": [
+      "A) 1 only",
+      "B) 1 and 2 only",
+      "C) 3 only",
+      "D) Neither 1 nor 2 nor 3"
+    ],
+    "answer": "B",
+    "explanation": "Given that, Five people A, B, C, D and E are, seated about a round table. Every chair is spaced equidistant from adjacent chairs. (i) C is seated next to A. (ii) A is seated two seats from D. (iii) B is not seated next to A. Now, It can be concluded from the given information Two cases : E A C D B or E A C B D 1. D is seated next to B. A is not seated next to B and A is two seats from D, thus D must seat next to B. EACBD or EACDB. Hence statement 1 is correct 2. E is seated next to A. EACBD or EACDB. Hence statement 2 is correct. 3. D and C are separated by two seats. EACBD or EACDB. Hence statement 3 is incorrect"
+  }
+    ],
+    "Puzzles involving generations and family tree logic": [
+        {
+            "question": "A is the father of C and D is the son of B. E is the brother of A if C is the sister of D, how is B related to E?",
+            "choices": [
+                "A) Brother",
+                "B) Brother-in-law",
+                "C) Sister",
+                "D) Sister-in-law"
+            ],
+            "answer": "C",
+            "explanation": "C and D are brother and sister that measn A and B are husband and wife and wife will be sister in law of husband’s brother. So the correct option is 'C'"
+        },
+        {
+            "question": "A and B are brothers. C and D are sisters. A’s son is D’s brother. How is C related to B?",
+            "choices": [
+                "A) Uncle",
+                "B) Niece",
+                "C) Father",
+                "D) Mother"
+            ],
+            "answer": "B",
+            "explanation": "C D and A’s son are brother and sisters, so brother’s daughter will be B’s niece. Hence, option 'B'."
+        },
+        {
+            "question": "Rohan said to Rashmi, ‘ your mother’s husband’s sister is my aunt.’ How is Rashmi related to Rohan?",
+            "choices": [
+                "A) Daughter",
+                "B) Sister",
+                "C) Mother",
+                "D) Granddaughter"
+            ],
+            "answer": "B",
+            "explanation": "mother’s husband is father and father’s sister will be Rohan’s aunt so that means Rohan and Rashmi are brother and sister."
+        }
+    ]
+}
